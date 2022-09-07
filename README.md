@@ -8,4 +8,6 @@ I am Anuja Salvi, currently pursuing my masters in Infotrmation Systems Manageme
 Through this course I hope to use my creative side and design insightful yet aesthetic visualizations that would not only be helpful for my career but would also reinitiate my love for art again.
 
 # Portfolio
-## Visualizing government debt
+My assignments would be seen here.
+## Upcoming assignments:
+### Visualizing government debt
