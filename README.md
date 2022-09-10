@@ -10,4 +10,4 @@ Through this course I hope to use my creative side and design insightful yet aes
 # Portfolio
 My assignments would be seen here.
 ## Upcoming assignments:
-### Visualizing government debt
+### [Visualizing government debt](https://anujasalvi.github.io/portfolio/dataviz2 "Assignment 2")
