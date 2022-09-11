@@ -8,5 +8,5 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11154069"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### second data visualization using the same data
+## Part 3: second data visualization using the same data
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11154339"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
