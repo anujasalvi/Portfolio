@@ -9,4 +9,7 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/11154069"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: second data visualization using the same data
+
+Paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well. Talk about why you chose the third data visualization. 
+
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11154339"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
