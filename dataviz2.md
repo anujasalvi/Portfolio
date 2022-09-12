@@ -10,12 +10,8 @@
 <details>
 <summary><h2 style="display:inline-block"> Part 2: Working with Flourish </h2></summary>
 <br>
-<div class="flourish-embed flourish-chart" data-src="visualisation/11154069"><script src="https://public.flourish.studio/resources/embed.js"></script></div>allowfullscreen="true"><a href="https://data.oecd.org/chart/6Odm" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11154069"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </details>
-
-
-
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11154339"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <details>
 <summary><h2 style="display:inline-block"> Part 3: second data visualization using the same data </h2></summary>
@@ -23,5 +19,5 @@
 <p>The first visualisation consisted of column chart where we can see the different ratios of different countries and compare them according to years. In the second visualization we see the trends of the ratios over the years for different countries in the form of a line chart. 
 In the third visualization, I decided to choose a Hierarchy Bar chart with the animation to rank the countriews according to the years. We can also select the year manually if we want to see a particular year. In this chart specially, I chose to focus on USA, so as to compare its ratio with other countries and get a clear look of where USA stands when it comes to Genveral Government to Debt Ratio. </p>
   
-<div class="flourish-embed flourish-chart" data-src="visualisation/11154069"><script src="https://public.flourish.studio/resources/embed.js"></script></div>allowfullscreen="true"><a href="https://data.oecd.org/chart/6Odm" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11154339"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </details>
