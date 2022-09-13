@@ -24,7 +24,13 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 <br>
   <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11154339"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   <p> Data: <a href="https://data.oecd.org/gga/general-government-debt.htm">OECD: General government debt</a></p>
-<p>The first visualisation consisted of column chart where we can see the different ratios of different countries and filter them according to a single year or a range of years. In the second visualization we see the trends of the ratios over the years for different countries in the form of a line chart.<br>
+
+</details>
+
+<details>
+<summary><h2 style="display:inline-block">Conclusion</h2></summary>
+<br>
+  <p>The first visualisation consisted of column chart where we can see the different ratios of different countries and filter them according to a single year or a range of years. In the second visualization we see the trends of the ratios over the years for different countries in the form of a line chart.<br>
 In the third visualisation, I decided to choose a Hierarchy Bar chart with the animation to rank the countries according to the years. We can also select the year manually if we want to see a particular year. In this chart specially, I chose to focus on USA, so as to compare its ratio with other countries and get a clear look of where USA stands when it comes to Genveral Government to Debt Ratio. Once the play button is clicked we can see the ratios of different countries changing in every 2 seconds according to the years.<br>
 When we compare the first 2 visualisations, the second visualisation helps to see the trends over years while in the first graph we cannot see it until we manually change the filters. So if one needs to know about yearly trends, the second visualisation would be better. And if the requirement is to compare the countries' ratio for any year, first visualisation would be better.<br>
 When it comes to the one that I chose, I tried to incorporate important points of both the charts highlighting USA. The animation helps us see the ratio ranking of US over the years and the bar chart helps us to see the comparison of between USA and other countries, hence highlighting both the points.<br>
