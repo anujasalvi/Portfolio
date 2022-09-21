@@ -85,6 +85,13 @@
     <td>All these insights were good and I would like to see any insight that you want to clearly convey. But you might want to consider using fewer colors in your final graph while keeping it minamilistic and clean. </td>
   </tr>
 </table>
-</p>
 </details>
+</p>
+
+
+<details>
+<summary><h2 style="display:inline-block"> Part 3: Final Visualization</h2></summary>
+  <p>Taking all the informative feedbacks I got into account, I decided to focus my final visualization on a broader area. I chose to show the states and the total number of visas as two main points in the graph. I liked this approach because it would appeal to the international students more, since they are going to be majority of the audience. And keeping the students in mind, I decided to approach for the U.S. map as a chart to act as a visual aid to locate the states. I also incorporated fewer colors, and kept a linear scale ranging from purple to yellow to show the transition for every state, hence making it easy to detetct the top 3 states with highest H-1B visa sponsoring companies. The values can be seen when the mouse is hovered on the state. Along with this, I have added a search box to search the state name directly, if that is preferred by the user.
+    <div class="flourish-embed flourish-map" data-src="visualisation/11236687"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  </p></details>
 
