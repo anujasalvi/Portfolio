@@ -27,7 +27,7 @@
   <u><h3 style="display:inline-block">Sketching Solution:</h3></u>
   
   <p>
-    <u><h5 style="display:inline-block">Sketch 1:</u></h5><br>
+    <u><h5 style="display:inline-block">Sketch 1:</h5></u><br>
     My first sketch was to incorporate this data in a a more visually pleasing way. Hence, I chose a Treemap to show the same data, but it gives the user the control over how much they want to go in detail. It starts with the same broad subject, states, and then can be drilled down further to cities and then to the companies in those cities and get the number of visas as a popup for every step when hovered over it.
     
     <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11239561"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
