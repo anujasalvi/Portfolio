@@ -42,7 +42,7 @@
   <b>Second: A bar chart that shows Top 10 highest H1-B sponsoring companies</b>
   <div class="flourish-embed flourish-chart" data-src="visualisation/11239630"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   This bar chart shows the Top 10 companies that sponsor H1-B visas in the whole of U.S. This looks better than the previous graph and gives a good idea of the companies one should focus on.
-  
+  <br>
   <u><h4 style="display:inline-block">Sketch 3:</h4></u><br><br>
   <b>Second: A  Word Cloud that shows Top 100 cities</b>
   For this sketch, I decided to focus on the  cities that had the highest H-1B sponsoring companies.
@@ -85,9 +85,8 @@
     <td>All these insights were good and I would like to see any insight that you want to clearly convey. But you might want to consider using fewer colors in your final graph while keeping it minamilistic and clean. </td>
   </tr>
 </table>
-</details>
 </p>
-
+</details>
 
 <details>
 <summary><h2 style="display:inline-block"> Part 3: Final Visualization</h2></summary>
