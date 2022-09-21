@@ -33,9 +33,9 @@
     <div class="flourish-embed flourish-hierarchy" data-src="visualisation/11239561"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   Even though this graph is a little less messier, my initial critique of too much data still exists along with the lack of clarity in the message to convey through this.
-  
+  <br>
     <u><h4 style="display:inline-block">Sketch 2:</h4></u><br>
-    For my second draft I thought to visualize some more detailed data that I would like to see as a user. I decided to graph a couple of bar charts.<br>
+    For my second draft I thought to visualize some more detailed data that I would like to see as a user. I decided to graph a couple of bar charts.<br><br>
   <b>First: A bar chart that shows Top 3 cities of Top 5 states of highest H1-B sponsoring companies.</b>
   <img src="b1.PNG" alt="Bar-1"><br>
   This bar chart is color grouped by state to show relevance between the graphs. It is simpler to understand as compared to the treemap and gives a overview of the important information an audience maybe interested in.<br>
@@ -43,7 +43,7 @@
   <div class="flourish-embed flourish-chart" data-src="visualisation/11239630"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   This bar chart shows the Top 10 companies that sponsor H1-B visas in the whole of U.S. This looks better than the previous graph and gives a good idea of the companies one should focus on.
   
-  <u><h4 style="display:inline-block">Sketch 3:</h4></u><br>
+  <u><h4 style="display:inline-block">Sketch 3:</h4></u><br><br>
   <b>Second: A  Word Cloud that shows Top 100 cities</b>
   For this sketch, I decided to focus on the  cities that had the highest H-1B sponsoring companies.
   <div class="flourish-embed" data-src="visualisation/11239107"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -88,8 +88,3 @@
 </p>
 </details>
 
-<details>
-<summary><h2 style="display:inline-block"> Part 3: Final Visualization</h2></summary>
-  <p>Taking all the informative feedbacks I got into account, I decided to focus my final visualization on a broader area. I chose to show the states and the total number of visas as two main points in the graph. I liked this approach because it would appeal to the international students more, since they are going to be majority of the audience. And keeping the students in mind, I decided to approach for the U.S. map as a chart to act as a visual aid to locate the states. I also incorporated fewer colors, and kept a linear scale ranging from purple to yellow to show the transition for every state, hence making it easy to detetct the top 3 states with highest H-1B visa sponsoring companies. The values can be seen when the mouse is hovered on the state. Along with this, I have added a search box to search the state name directly, if that is preferred by the user.
-    <div class="flourish-embed flourish-map" data-src="visualisation/11236687"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-  </p></details>
