@@ -11,3 +11,4 @@ Through this course I hope to use my creative side and design insightful yet aes
 My assignments would be seen here.
 ## Upcoming assignments:
 ### [Visualizing government debt](https://anujasalvi.github.io/portfolio/dataviz2 "Assignment 2")
+### [Critique by Design](https://anujasalvi.github.io/portfolio/assng3-4.html "Assignment 3&4")
