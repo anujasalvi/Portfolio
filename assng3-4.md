@@ -37,7 +37,7 @@
   
   Although, the feedback on this graph was to aim for one goal to convey through the graph. Even though it is a little less messier, my initial critique of too much data still exists along with the lack of clarity in the message to convey through this.
   
-    <u><h5 style="display:inline-block">Sketch 2:</u></h5><br>
+    <u><h5 style="display:inline-block">Sketch 2:</h5></u><br>
     For my second draft I thought to visualize some more detailed data that I would like to see as a user. I decided to graph a couple of bar charts.<br>
   <b>First: A bar chart that shows Top 3 cities of Top 5 states of highest H1-B sponsoring companies.</b>
   <img src="b1.PNG" alt="Bar-1"><br>
@@ -46,15 +46,14 @@
   <div class="flourish-embed flourish-chart" data-src="visualisation/11239630"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   This bar chart shows the Top 10 companies that sponsor H1-B visas in the whole of U.S. This looks better than the previous graph and gives a good idea of the companies one should focus on.
   
-  <u><h5 style="display:inline-block">Sketch 3:</u></h5><br>
+  <u><h5 style="display:inline-block">Sketch 3:</h5></u><br>
   <b>Second: A  Word Cloud that shows Top 100 cities</b>
   For this sketch, I decided to focus on the  cities that had the highest H-1B sponsoring companies.
   <div class="flourish-embed" data-src="visualisation/11239107"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   This graph grabs the attention of the users to the various cities consisting of such companies. This is especially useful if the user wants to know which city location they would like to move to.
-  
-  
   </p>
   
   <u><h3 style="display:inline-block">Testing:</h3></u>
+  
   
 </details>
