@@ -2,7 +2,7 @@
 
 <details>
 <summary><h2 style="display:inline-block"> Part 1: Original Visualization</h2></summary>
-<br>
+
   <p>This circle-packing diagram groups and counts a tabular dataset of <a href="https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub?state=All&fy=4&naics=All&items_per_page=10&page=1" target="_blank" rel="noopener noreferrer">H‑1B employers from 2019 provided on USCIS.</a></p>
   <a href="https://observablehq.com/@d3/pack-rollup" target="_blank" rel="noopener noreferrer">
   <img src="https://miro.medium.com/max/875/1*eO2MtuHx0LWxexyTh583Cw.png" alt="Bad_Viz">
@@ -12,7 +12,7 @@
 
 <details>
 <summary><h2 style="display:inline-block"> Part 2: The Process</h2></summary>
-<br>
+
   <u><h3 style="display:inline-block">Data:</h3></u>
   
   <p>The visualization I chose to critique utitlized the <a href="https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub?state=All&fy=4&naics=All&items_per_page=10&page=1" target="_blank" rel="noopener noreferrer">H1-B Employer Hub Data 2019</a> from the official U.S. Citizenship and Immigration Services (<a href="https://www.uscis.gov/">USCIS</a>) site. Hence, making it even more important to be visualized effectively so as to deliver impactful insights.</p>
@@ -60,32 +60,37 @@
     <th>Adult, Late 20s</th>
   </tr>
   <tr>
-    <td>What do you think the first graph is about?</td>
+    <td><i>What do you think the first graph is about?</i></td>
     <td>I don't know, It looks like some <i>mandala</i>.</td>
     <td>It is a circle packing graph, although not sure what is it about.</td>
   </tr>
   <tr>
-    <td>Is the sketch 1 clearer than the original visual? Is there anything else that you would like to see in this graph?</td>
+    <td><i>Is the sketch 1 clearer than the original visual? Is there anything else that you would like to see in this graph?</i></td>
     <td>Oh, this is definitly better. This is the data of H-1B visas in U.S. Although, it is still congested and hard to read. You could reduce boxes.</td>
     <td>Hmm, it certainly looks better, but the quantity is still an issue here. If the city names are only going to be shown for some states, you would rather focus on those cities and states only.</td>
   </tr>
   <tr>
-    <td>Any opinons on the bar graphs in Sketch 2? Are these conveying a strong enough goal to the audience?</td>
+    <td><i>Any opinons on the bar graphs in Sketch 2? Are these conveying a strong enough goal to the audience?</i></td>
     <td>The bar 2 looks better than bar 1. It has only one color as compared to bar 1 and also targets the audience who are interested in knowing only the top companies. </td>
     <td>What is your goal? If it is the top companies, then yes. The bar 1 gives a rainbow effect and a legend is missing too. The bar 2 looks neat lthough the number of visas are missing.</td>
   </tr>
   <tr>
-    <td>Look at Sketch 3, what does it tell you?</td>
-    <td>100 cities. Although I won't be able to tell you where most of them are located in the U.S. </td>
+    <td><i>Look at Sketch 3, what does it tell you?</td>
+    <td>100 cities. Although I won't be able to tell you where most of them are located in the U.S.</i></td>
     <td>The Top 100 cities. The word cloud is a nice way to emphasize some of the important cities, but not 100. There are too many words in this visual, and also too many colors.</td>
   </tr>
   <tr>
-    <td>As an audience member, what insights would you like to get most importantly?</td>
+    <td><i>As an audience member, what insights would you like to get most importantly?</i></td>
     <td>Umm, states and number of visas would be nice to know. As an international student I would focus on States as a whole, I don't know all the cities here.</td>
     <td>All these insights were good and I would like to see any insight that you want to clearly convey. But you might want to consider using fewer colors in your final graph while keeping it minamilistic and clean. </td>
   </tr>
 </table>
 </p>
-  
-  
+</details>
+
+<details>
+<summary><h2 style="display:inline-block"> Part 3: Final Visualization</h2></summary>
+  <p>Taking all the informative feedbacks I got into account, I decided to focus my final visualization on a broader area. I chose to show the states and the total number of visas as two main points in the graph. I liked this approach because it would appeal to the international students more, since they are going to be majority of the audience. And keeping the students in mind, I decided to approach for the U.S. map as a chart to act as a visual aid to locate the states. I also incorporated fewer colors, and kept a linear scale ranging from purple to yellow to show the transition for every state, hence making it easy to detetct the top 3 states with highest H-1B visa sponsoring companies. The values can be seen when the mouse is hovered on the state. Along with this, I have added a search box to search the country name directly, if that is preferred by the user.
+    <div class="flourish-embed flourish-map" data-src="visualisation/11236687"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  </p>
 </details>
