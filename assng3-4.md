@@ -5,6 +5,6 @@
 <br>
   <p>This circle-packing diagram groups and counts a tabular dataset of H‑1B employers from 2019.</p>
   <a href="https://observablehq.com/@d3/pack-rollup">
-  <img src="https://miro.medium.com/max/875/1*eO2MtuHx0LWxexyTh583Cw.png" alt="Bad_Viz" width="100" height="132">
+  <img src="https://miro.medium.com/max/875/1*eO2MtuHx0LWxexyTh583Cw.png" alt="Bad_Viz">
   </a>
 </details>
