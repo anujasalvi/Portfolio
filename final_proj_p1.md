@@ -24,21 +24,21 @@
         In this graph I wanted to show the numbers depicting different illnesses in students. These numbers can also be in percentages. Additionally, we can also make it a grouped chart to see comparisons between average U.S. adult and students to know the severity of tis issue.<br>
         <img src="1.1.jpeg" alt="Sketch 1">
       </li>
-      
+      <br>
       <li><b><u>Sketch 2:</u></b>
       <br>
         <b>Pie Chart showing how many students have mental illnesses.</b><br>
         This graph shows the proportion of students compared to all the students that suffer from any kind of mental illnesses.<br>
         <img src="1.2.jpeg" alt="Sketch 2">
       </li>
-
+      <br>
       <li><b><u>Sketch 3:</u></b>
       <br>
         <b>Line chart showing trend</b><br>
         This visual focuses on showcasing the trends of these diseases over the years in students. This aims to highlight the increase of illnesses in students. <br>
         <img src="1.3.jpeg" alt="Sketch 3">
       </li>
-      
+      <br>
       <li><b><u>Sketch 4:</u></b>
       <br>
         <b>Column chart depicting actions taken by students due to mental illnesses</b><br>
