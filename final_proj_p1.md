@@ -43,7 +43,7 @@
       <li><b><u>Sketch 4:</u></b>
       <br>
         <b>Column chart depicting actions taken by students due to mental illnesses</b><br>
-        Showing actions will highlight the sverity of the situation.<br>
+        Showing actions will highlight the severity of the situation.<br>
         <img src="1.4.jpeg" alt="Sketch 4">
       </li>
 </ul>
