@@ -25,21 +25,21 @@
         <img src="1.1.jpeg" alt="Sketch 1">
       </li>
       
-      <li><b></u>Sketch 2:</u></b>
+      <li><b><u>Sketch 2:</u></b>
       <br>
         <b>Pie Chart showing how many students have mental illnesses.</b><br>
         This graph shows the proportion of students compared to all the students that suffer from any kind of mental illnesses.<br>
         <img src="1.2.jpeg" alt="Sketch 2">
       </li>
 
-      <li><b></u>Sketch 3:</u></b>
+      <li><b><u>Sketch 3:</u></b>
       <br>
         <b>Line chart showing trend</b><br>
         This visual focuses on showcasing the trends of these diseases over the years in students. This aims to highlight the increase of illnesses in students. <br>
         <img src="1.3.jpeg" alt="Sketch 3">
       </li>
       
-      <li><b></u>Sketch 4:</u></b>
+      <li><b><u>Sketch 4:</u></b>
       <br>
         <b>Column chart depicting actions taken by students due to mental illnesses</b><br>
         Showing actions will highlight the sverity of the situation.<br>
