@@ -9,7 +9,8 @@
   <li>Understanding the prevalence and severity of mental health issues</li>
   <li>Understanding what students are thinking, feeling, and experiencing</li>
   <li>Making recommendations on steps students and programs can take to improve student mental health</li>
-</ul>
+</ul><br>
+  <img src="65121bb5-f233-44d2-9249-88693f900fe4.png">
   </p>
 </details>
 
