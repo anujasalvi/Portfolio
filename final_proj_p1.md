@@ -8,7 +8,9 @@
     <ul>
   <li>Understanding the prevalence and severity of mental health issues</li>
   <li>Understanding what students are thinking, feeling, and experiencing</li>
-  <li>Making recommendations on steps students and programs can take to improve student mental health</li>
+   <li>Understanding dfferent demographics of students with mental illnesses</li>
+  <li>Making recommendations on steps programs can take to improve student mental health</li>
+  
 </ul><br>
   <img src="65121bb5-f233-44d2-9249-88693f900fe4.png">
   </p>
@@ -65,5 +67,13 @@
 <br>
   <p> 
     I plan to create the visuals using tools like Flourish and Tableau. I would want to incroporate and highlight the alarming numbers also showcasing various categories of illnesses and focusing on how sadly normal it is for graduate students. I also plan to use Shorthand to make a convincing story using this data while incorporating the visuals that I create hoping to effectively highlight the insights that I find using the data.
+  </p>
+</details>
+
+<details>
+<summary><h2 style="display:inline-block">Peer Review Recommendations</h2></summary>
+<br>
+  <p> 
+    In todays peer review I got some great recommendations that I would like to incorporate in my final project. Few of them is focusing on the age groups, gender and different demographics of the students. The other suggestion was to highlight the most prevalent major of students with mental illnesses. Additionally, an interesting recommendation was to include recommendations not only for the program but also for the students. As students they wanted to know how they could help with this existing issue.
   </p>
 </details>
