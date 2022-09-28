@@ -13,7 +13,7 @@
   
 </ul><br>
   <img src="65121bb5-f233-44d2-9249-88693f900fe4.png"><br>
-  Image Courtesy: <a href="https://phdcomics.com/comics.php?f=1670>PhD Comics</a>
+  Image Courtesy: <a href="https://phdcomics.com/comics.php?f=1670" target="_blank">PhD Comics</a>
   </p>
 </details>
 
