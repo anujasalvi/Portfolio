@@ -90,40 +90,40 @@
     <th>Student, Female, Mid 20s</th>
   </tr>
   <tr>
-    <td>What do you think the first graph is about?</td>
-    <td>--</td>
-    <td>--</td>
-    <td>--</td>
+    <td>What do you think the topic is by just looking at the first visual?</td>
+    <tdMental health of studentstd>
+    <tdGraduate Students Feelingtd>
+    <tdMental state of graduate studentstd>
   </tr>
     <tr>
-    <td>Is the flow of the story compelling story?</td>
-   <td>--</td>
-   <td>--</td>
-   <td>--</td>
+    <td>Is the flow of the story compelling?</td>
+   <td>Yes.</td>
+   <td>More visuals needed. Also, visual 5 will look better before visual 4.</td>
+   <td>Yes, although visual 3 feels abrupt. A little more relation to the topic would be more compelling.</td>
   </tr>
   <tr>
     <td>Is the story engaging?</td>
-   <td>--</td>
-   <td>--</td>
-   <td>--</td>
+   <td>Yes, very relatable.</td>
+   <td>Yes, can relate.</td>
+   <td>This is a serious issue, hence it is really engaging.</td>
   </tr>
   <tr>
     <td>Do you want to see anytthing else?</td>
-    <td>--</td>
-    <td>--</td>
-    <td>--</td>
+    <td>What are the main reasons that cause stress and anxiety in us.</td>
+    <td>Maybe percent of students that are in therapy or counselling and if that helped them.</td>
+    <td>What are the stress levels in international students.</td>
   </tr>
   <tr>
     <td>Are these visualizations making a powerful impact about the topic?</td>
-    <td>--</td>
-    <td>--</td>
-    <td>--</td>
+    <td>I am 100% connected to the story, so yes.</td>
+      <td>Yes, the data results are concerning.</td>
+    <td>-Yes</td>
   </tr>
   <tr>
     <td>As the core target audience and the test subject, what insights would you like to get most importantly?</td>
-    <td>--</td>
-    <td>--</td>
-    <td>--</td>
+    <td>Nothing more, but I would like to know what keeps us going even through all of this.</td>
+    <td>What would you recommend to us and the institutes.</td>
+    <td>How to curb stress and recommendations for the program, not us.</td>
   </tr>
 </table>
   </p>
