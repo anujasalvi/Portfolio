@@ -31,7 +31,7 @@
 <details>
 <summary><h2 style="display:inline-block">Wireframe</h2></summary>
 <br>
-  <p>The visuals:<br>
+  <p>The visuals:<br><br>
     <b><i>Intoducing the audience:</i></b><br>
     <ul>
       <li><b><u>Visual 1:</u></b>
