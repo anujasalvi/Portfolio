@@ -78,29 +78,13 @@
 </details>
 
 
-
-<details>
-<summary><h2 style="display:inline-block">Method and medium</h2></summary>
-<br>
-  <p> 
-    I plan to create the visuals using tools like Flourish and Tableau. I would want to incroporate and highlight the alarming numbers also showcasing various categories of illnesses and focusing on how sadly normal it is for graduate students. I also plan to use Shorthand to make a convincing story using this data while incorporating the visuals that I create hoping to effectively highlight the insights that I find using the data.
-  </p>
-</details>
-
-<details>
-<summary><h2 style="display:inline-block">Peer Review Recommendations</h2></summary>
-<br>
-  <p> 
-    In todays peer review I got some great recommendations that I would like to incorporate in my final project. Few of them is focusing on the age groups, gender and different demographics of the students. The other suggestion was to highlight the most prevalent major of students with mental illnesses. An interesting suggestion was to compare mental illneses in college and graduate students. Additionally, an interesting recommendation was to include recommendations not only for the program but also for the students. As students they wanted to know how they could help with this existing issue.
-  </p>
-</details>
-
 <details>
 <summary><h2 style="display:inline-block">User Reseach</h2></summary>
 <br>
   <p>Since my topic is about mental illnesses in graduate students, my target audience are the same and I hope to convey this story to them convincingly.<br>
   I aim to choose students with different demographics(age, ethnicity, gender, etc.) as individuals to interview to get a more diverse pool of replies and feedback.
-  <tr>
+  <table>
+    <tr>
     <th>Questions</th>
     <th>Student, Male, Early 20s</th>
     <th>Student, Female, Late 20s</th>
