@@ -41,7 +41,7 @@
         <img src="2.1.jpeg" alt="Sketch 1" width="500" height="600">
       </li>
       <br>
-      <b><i>Will further dive into the story by showing comparisons</i></b><br>
+      <b><i>Will further dive into the story by showing comparisons</i></b><br><br>
       <li><b><u>Visual 2:</u></b>
       <br>
         <b>Column chart of severe stress levels in general population vs graduate students</b><br>
@@ -50,7 +50,7 @@
       </li>
       <br>
       
-       <b><i>Bringing demographics into picture</i></b><br>
+       <b><i>Bringing demographics into picture</i></b><br><br>
       <li><b><u>Visual 3:</u></b>
       <br>
         <b>Pie chart depicting students demographics</b><br>
@@ -59,7 +59,7 @@
       </li>
       <br>
       
-       <b><i>What students are feeling</i></b><br>
+       <b><i>What students are feeling</i></b><br><br>
       <li><b><u>Visual 4:</u></b>
       <br>
         <b>Column chart depicting how students feel since starting graduate studies</b>.<br> 
@@ -67,7 +67,7 @@
         <img src="2.4.jpeg" alt="Sketch 4" width="500" height="600">
       </li>
       
-      <li><b><u>Visual 5:</u></b>
+      <li><b><u>Visual 5:</u></b><br>
       <br>
         <b>Bar chart of students' work hours</b>.<br> 
         This visual aims to highlight the percent of graduate students <that have more than 40 hours per week schedule. Hence showing graduate students are not only stressed but overworked.<br>
