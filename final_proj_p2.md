@@ -7,14 +7,12 @@
   <p> 
     As my final project I am deciding to choose a topic really personal to me and something that I am really passionate to spread more awareness about it. Hence, I am choosing to tell the story of <b><i>Mental Illnesses in Graduate Students</i></b>. For this topic I am going to covver and expand further on the following points:
     <ul>
-  <li>Understanding the prevalence and severity of mental health issues</li>
-  <li>Understanding what students are thinking, feeling, and experiencing</li>
-   <li>Understanding dfferent demographics of students with mental illnesses</li>
-  <li>Making recommendations on steps programs can take to improve student mental health</li>
+  <li>Introducing the audience to the topic</li>
+  <li>How are students different to general population?</li>
+  <li>Different demographics in students</li>
+  <li>Recommendations</li>
   
-</ul><br>
-  <img src="65121bb5-f233-44d2-9249-88693f900fe4.png"><br>
-  Image Courtesy: <a href="https://phdcomics.com/comics.php?f=1670" target="_blank">PhD Comics</a>
+</ul>
   </p>
 </details>
 
@@ -29,7 +27,7 @@
 </details>
 
 <details>
-<summary><h2 style="display:inline-block">Wireframe</h2></summary>
+<summary><h2 style="display:inline-block">Wireframe and Visualisations</h2></summary>
 <br>
   <p>The visuals:<br><br>
     <b><i>Intoducing the audience:</i></b><br>
@@ -116,8 +114,8 @@
   <tr>
     <td>Are these visualizations making a powerful impact about the topic?</td>
     <td>I am 100% connected to the story, so yes.</td>
-      <td>Yes, the data results are concerning.</td>
-    <td>-Yes</td>
+    <td>Yes, the data results are concerning.</td>
+    <td>Yes</td>
   </tr>
   <tr>
     <td>As the core target audience and the test subject, what insights would you like to get most importantly?</td>
@@ -127,4 +125,15 @@
   </tr>
 </table>
   </p>
+  <br>
+  
+  <details>
+<summary><h3 style="display:inline-block">Findings and Future Implementation</h3></summary>
+<br>
+ <p>The common findings through user research were to include the reasons for stress and anxiety in graduate students as well as recommendations to students and programs. Furthermore, visualisations having more relation of different demographics of students to the topic is something the users want to see. I plan to implement these suggestions in my final storyboard. Also, an interesting suggestion was to mention what keeps graduate students going through all this strees and negative thoughts. I am hoping to include this in my story board and conclude my presentation with it by giving it a positive end note for my story.</p>
 </details>
+  
+</details>
+
+  
+  
