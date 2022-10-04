@@ -66,9 +66,8 @@
         This visual shows how many students feel that their level of satisfaction have actually worsened since the start of their graduate studies. This number is a little bit more than the percent of students who feel that their level of satisfaction has increased. This shows the amount of stress students go through.<br>
         <img src="2.4.jpeg" alt="Sketch 4" width="400">
       </li>
-      
-      <li><b><u>Visual 5:</u></b><br>
       <br>
+      <li><b><u>Visual 5:</u></b><br>
         <b>Bar chart of students' work hours</b>.<br> 
         This visual aims to highlight the percent of graduate students <that have more than 40 hours per week schedule. Hence showing graduate students are not only stressed but overworked.<br>
         <img src="2.5.jpeg" alt="Sketch 5" width="400">
