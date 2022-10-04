@@ -12,4 +12,5 @@ My assignments would be seen here.
 ## Upcoming assignments:
 ### [Visualizing government debt](https://anujasalvi.github.io/portfolio/dataviz2 "Assignment 2")
 ### [Critique by Design](https://anujasalvi.github.io/portfolio/assng3-4.html "Assignment 3&4")
-### [Final Project: Part 1](https://anujasalvi.github.io/portfolio/final_proj_p1 "Final Project")
+### [Final Project: Part 1](https://anujasalvi.github.io/portfolio/final_proj_p1 "Final Project: 1")
+### [Final Project: Part 2](https://anujasalvi.github.io/portfolio/final_proj_p2 "Final Project: 2")
