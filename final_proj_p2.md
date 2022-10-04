@@ -91,9 +91,9 @@
   </tr>
   <tr>
     <td>What do you think the topic is by just looking at the first visual?</td>
-    <tdMental health of studentstd>
-    <tdGraduate Students Feelingtd>
-    <tdMental state of graduate studentstd>
+    <td>Mental health of students</td>
+    <td>Graduate Students Feeling</td>
+    <td>Mental state of graduate students</td>
   </tr>
     <tr>
     <td>Is the flow of the story compelling?</td>
