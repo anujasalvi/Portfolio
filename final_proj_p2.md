@@ -38,7 +38,7 @@
       <br>
         <b>Word Cloud of words used the most by graduate students</b><br>
         In this visual I wanted to show the most common words used by Graduate Students on a day-to day basis, hence showing how they are feeling everyday.<br>
-        <img src="2.1.jpeg" alt="Sketch 1">
+        <img src="2.1.jpeg" alt="Sketch 1" width="500" height="600">
       </li>
       <br>
       <b><i>Will further dive into the story by showing comparisons</i></b><br>
