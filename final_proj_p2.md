@@ -55,7 +55,7 @@
       <br>
         <b>Pie chart depicting students demographics</b><br>
         This visual focuses on showcasing the percentage of students that are not Americans and are international. This visual aims to show that there is a vast diversity in the pool of graduate students.<br>
-        <img src="2.3.jpeg" alt="Sketch 3" width="500" height="600">
+        <img src="2.3.jpeg" alt="Sketch 3" width="600" height="500">
       </li>
       <br>
       
