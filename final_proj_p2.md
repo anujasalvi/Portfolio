@@ -95,8 +95,14 @@
     <td>--</td>
     <td>--</td>
   </tr>
+    <tr>
+    <td>Is the flow of the story compelling story?</td>
+   <td>--</td>
+   <td>--</td>
+   <td>--</td>
+  </tr>
   <tr>
-    <td>Is this a compelling story?</td>
+    <td>Is the story engaging?</td>
    <td>--</td>
    <td>--</td>
    <td>--</td>
@@ -108,13 +114,13 @@
     <td>--</td>
   </tr>
   <tr>
-    <td>Are thses visualizations making a powerful impact about the topic?</td>
+    <td>Are these visualizations making a powerful impact about the topic?</td>
     <td>--</td>
     <td>--</td>
     <td>--</td>
   </tr>
   <tr>
-    <td>As the core tarhet audience and the test subject, what insights would you like to get most importantly?</td>
+    <td>As the core target audience and the test subject, what insights would you like to get most importantly?</td>
     <td>--</td>
     <td>--</td>
     <td>--</td>
