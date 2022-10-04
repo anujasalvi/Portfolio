@@ -70,7 +70,7 @@
       <li><b><u>Visual 5:</u></b>
       <br>
         <b>Bar chart of students' work hours</b>.<br> 
-        This visual aims to highlight the percent of graduate students <that have more than 40 hours per week schedule. Hence showing graduate students are not only stressed but overworked.br>
+        This visual aims to highlight the percent of graduate students <that have more than 40 hours per week schedule. Hence showing graduate students are not only stressed but overworked.<br>
         <img src="2.5.jpeg" alt="Sketch 5" width="500" height="600">
       </li> 
 </ul>
