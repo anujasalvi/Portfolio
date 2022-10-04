@@ -38,7 +38,7 @@
       <br>
         <b>Word Cloud of words used the most by graduate students</b><br>
         In this visual I wanted to show the most common words used by Graduate Students on a day-to day basis, hence showing how they are feeling everyday.<br>
-        <img src="2.1.jpeg" alt="Sketch 1" style="object-fit:scale-down>
+        <img src="2.1.jpeg" alt="Sketch 1" width="400">
       </li>
       <br>
       <b><i>Will further dive into the story by showing comparisons</i></b><br><br>
@@ -46,7 +46,7 @@
       <br>
         <b>Column chart of severe stress levels in general population vs graduate students</b><br>
         In this visual I wanted to show "how graduate students are different?" to the general population when it comes to stress and anxiety. Hence this column chart visualizes this vast difference between the two.<br>
-        <img src="2.2.jpeg" alt="Sketch 2" style="object-fit:scale-down>
+        <img src="2.2.jpeg" alt="Sketch 2" width="400">
       </li>
       <br>
       
@@ -55,7 +55,7 @@
       <br>
         <b>Pie chart depicting students demographics</b><br>
         This visual focuses on showcasing the percentage of students that are not Americans and are international. This visual aims to show that there is a vast diversity in the pool of graduate students.<br>
-        <img src="2.3.jpeg" alt="Sketch 3" style="object-fit:scale-down>
+        <img src="2.3.jpeg" alt="Sketch 3" width="400">
       </li>
       <br>
       
@@ -64,14 +64,14 @@
       <br>
         <b>Column chart depicting how students feel since starting graduate studies</b>.<br> 
         This visual shows how many students feel that their level of satisfaction have actually worsened since the start of their graduate studies. This number is a little bit more than the percent of students who feel that their level of satisfaction has increased. This shows the amount of stress students go through.<br>
-        <img src="2.4.jpeg" alt="Sketch 4" style="object-fit:scale-down>
+        <img src="2.4.jpeg" alt="Sketch 4" width="400">
       </li>
       
       <li><b><u>Visual 5:</u></b><br>
       <br>
         <b>Bar chart of students' work hours</b>.<br> 
         This visual aims to highlight the percent of graduate students <that have more than 40 hours per week schedule. Hence showing graduate students are not only stressed but overworked.<br>
-        <img src="2.5.jpeg" alt="Sketch 5" style="object-fit:scale-down>
+        <img src="2.5.jpeg" alt="Sketch 5" width="400">
       </li> 
 </ul>
   </p>
