@@ -30,7 +30,7 @@
 <summary><h2 style="display:inline-block">Wireframe and Visualisations</h2></summary>
 <br>
   <p>This story would be told in the following flow:<br><br>
-    <h4 style="color:DarkCyan;"><i>The presentation would start by intoducing the audience to the current mental state of graduate students.</i></h4><br>
+    <h4 style="color:MediumVioletRed;"><i>The presentation would start by intoducing the audience to the current mental state of graduate students.</i></h4><br>
     <ul>
       <li><b><u>Visual 1:</u></b>
       <br>
@@ -39,7 +39,7 @@
         <img src="2.1.jpeg" alt="Sketch 1" width="400">
       </li>
       <br>
-      <h4 style="color:DarkCyan;"><i>Will further dive into the story by showing comparisons to bring more attention towards the state of graduate students.</i></h4><br><br>
+      <h4 style="color:MediumVioletRed;"><i>Will further dive into the story by showing comparisons to bring more attention towards the state of graduate students.</i></h4><br><br>
       <li><b><u>Visual 2:</u></b>
       <br>
         <b>Column chart of severe stress levels in general population vs graduate students</b><br>
@@ -48,7 +48,7 @@
       </li>
       <br>
       
-       <h4 style="color:DarkCyan;"><i>I would want to introduce the different demographics in the pool of graduate students to show that not all students come form the same background but go through the same thing.</i></h4><br><br>
+       <h4 style="color:MediumVioletRed;"><i>I would want to introduce the different demographics in the pool of graduate students to show that not all students come form the same background but go through the same thing.</i></h4><br><br>
       <li><b><u>Visual 3:</u></b>
       <br>
         <b>Pie chart depicting students demographics</b><br>
@@ -57,7 +57,7 @@
       </li>
       <br>
       
-       <h4 style="color:DarkCyan;"><i>Further progressing in the story, I would want to show the audience what the students are feeling and how satisfied they are after starting their graduate studies. Furthermore, I would want to highlight to the audience that a graduate students' average hours per week is way more than a 5-day 9 to 5 job.</i></h4><br><br>
+       <h4 style="color:MediumVioletRed;"><i>Further progressing in the story, I would want to show the audience what the students are feeling and how satisfied they are after starting their graduate studies. Furthermore, I would want to highlight to the audience that a graduate students' average hours per week is way more than a 5-day 9 to 5 job.</i></h4><br><br>
       <li><b><u>Visual 4:</u></b>
       <br>
         <b>Column chart depicting how students feel since starting graduate studies</b>.<br> 
