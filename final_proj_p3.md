@@ -1,4 +1,4 @@
-# Final Project: Part 3
+# Final Project: Final Draft
 
 <p>Extending on part 1 and part 2 of the final project. The outline and data are the same as part 1.</p>
 <details>
