@@ -1,6 +1,6 @@
 # Final Project: Final Draft
 
-<p>Extending on part 1 and part 2 of the final project. The outline and data are the same as part 1.</p>
+<p>Extending on <a href = "https://anujasalvi.github.io/portfolio/final_proj_p1">Part 1</a> and <a href = "https://anujasalvi.github.io/portfolio/final_proj_p2">Part 2</a> of the final project.</p>
 <details>
 <summary><h2 style="display:inline-block">Final Changes</h2></summary>
 <br>
