@@ -78,3 +78,4 @@
     In todays peer review I got some great recommendations that I would like to incorporate in my final project. Few of them is focusing on the age groups, gender and different demographics of the students. The other suggestion was to highlight the most prevalent major of students with mental illnesses. An interesting suggestion was to compare mental illneses in college and graduate students. Additionally, an interesting recommendation was to include recommendations not only for the program but also for the students. As students they wanted to know how they could help with this existing issue.
   </p>
 </details>
+<p>Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p2">Part 2</a> or Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p3">Part 3</a>.</p>
