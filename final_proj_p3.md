@@ -1,6 +1,6 @@
 # Final Project: Final Draft
 
-<p>Extending on <a href = "https://anujasalvi.github.io/portfolio/final_proj_p1">Part 1</a> and <a href = "https://anujasalvi.github.io/portfolio/final_proj_p2">Part 2</a> of the final project.</p>
+<p>Extending on <a href = "https://anujasalvi.github.io/portfolio/final_proj_p1">Part 1</a> and <a href = "https://anujasalvi.github.io/portfolio/final_proj_p2">Part 2</a> of the final project. My final storyboard can be found <a href = "https://preview.shorthand.com/oHJ4QyYDNWOhx9Kt">here</a>.</p>
 <details>
 <summary><h2 style="display:inline-block">Final Changes</h2></summary>
 <br>
