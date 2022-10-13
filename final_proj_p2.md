@@ -135,4 +135,4 @@
   
 </details>
 
- <p>Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p1">Part 1</a> or Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p3">Part 3</a>.</p>
+ <p>Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p1" target="_blank">Part 1</a> or Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p3" target="_blank">Part 3</a>.</p>
