@@ -94,3 +94,10 @@
 <div class="flourish-embed flourish-map" data-src="visualisation/11236687"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   </p></details>
 
+<p> <h4>Links to other projects:</h4>
+<a href="https://anujasalvi.github.io/portfolio/dataviz2" target="_blank">Visualizing government debt</a><br>
+<a href="https://anujasalvi.github.io/portfolio/final_proj_p1" target="_blank">Final Project: Part 1</a><br>
+<a href="https://anujasalvi.github.io/portfolio/final_proj_p2" target="_blank">Final Project: Part 2</a><br>
+<a href="https://anujasalvi.github.io/portfolio/final_proj_p3" target="_blank">Final Project: Part 3</a><br>
+<a href="https://carnegiemellon.shorthandstories.com/mental-illnesses-in-graduate-students/index.html" target="_blank">Mental Illnesses in Graduate Students</a>
+</p>
