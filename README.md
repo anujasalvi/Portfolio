@@ -9,9 +9,9 @@ I am Anuja Salvi, currently pursuing my masters in Infotrmation Systems Manageme
 # What I hope to learn :hibiscus:
 Through this course I hope to use my creative side and design insightful yet aesthetic visualizations that would not only be helpful for my career but would also reinitiate my love for art again. 
 
-# Portfolio :pencil:
-You can see my projects here :grinning:
-##  Projects: :bar_chart:
+# Projects: :pencil:
+You can see my projects here :grinning:<br>
+
 <h3><a href="https://anujasalvi.github.io/portfolio/dataviz2" target="_blank">Visualizing government debt</a></h3>
 <h3><a href="https://anujasalvi.github.io/portfolio/assng3-4.html" target="_blank">Critique by Design</a></h3>
 <h3><a href="https://anujasalvi.github.io/portfolio/final_proj_p1" target="_blank">Final Project: Part 1</a></h3>
