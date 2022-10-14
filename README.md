@@ -1,5 +1,7 @@
 # Portfolio
 This my public portfolio for Telling Stories with Data at Carnegie Mellon University.
+<img src="main_page.png"><br>
+  Image Courtesy: <a href="https://phdcomics.com/comics.php?f=1670" target="_blank">PhD Comics</a>
 
 # About me
 I am Anuja Salvi, currently pursuing my masters in Infotrmation Systems Management at Carnegie Mellon University. My background is as a data analyst/data scientist with a knack for design. 
@@ -9,11 +11,10 @@ Through this course I hope to use my creative side and design insightful yet aes
 
 # Portfolio
 My assignments would be seen here.
-## Upcoming assignments:
-### [Visualizing government debt](https://anujasalvi.github.io/portfolio/dataviz2 "Assignment 2")
-### [Critique by Design](https://anujasalvi.github.io/portfolio/assng3-4.html "Assignment 3&4")
-### [Final Project: Part 1](https://anujasalvi.github.io/portfolio/final_proj_p1 "Final Project: 1")
-### [Final Project: Part 2](https://anujasalvi.github.io/portfolio/final_proj_p2 "Final Project: 2")
-### [Final Project: Part 3](https://anujasalvi.github.io/portfolio/final_proj_p3 "Final Project: 3")
+##  Projects:
+<h3><a href="https://anujasalvi.github.io/portfolio/dataviz2" target="_blank">Visualizing government debt</a></h3>
+<h3><a href="https://anujasalvi.github.io/portfolio/assng3-4.html" target="_blank">Critique by Design</a></h3>
+<h3><a href="https://anujasalvi.github.io/portfolio/final_proj_p1" target="_blank">Final Project: Part 1</a></h3>
+<h3><a href="https://anujasalvi.github.io/portfolio/final_proj_p2" target="_blank">Final Project: Part 2</a></h3>
+<h3><a href="https://anujasalvi.github.io/portfolio/final_proj_p3" target="_blank">Final Project: Part 3</a></h3>
 <h3><a href="https://carnegiemellon.shorthandstories.com/mental-illnesses-in-graduate-students/index.html" target="_blank">Mental Illnesses in Graduate Students</a></h3>
-### [Mental Illnesses in Graduate Students](https://external.ink?to=carnegiemellon.shorthandstories.com/mental-illnesses-in-graduate-students/index.html "Storyboard")
