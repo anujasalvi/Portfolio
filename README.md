@@ -15,4 +15,4 @@ My assignments would be seen here.
 ### [Final Project: Part 1](https://anujasalvi.github.io/portfolio/final_proj_p1 "Final Project: 1")
 ### [Final Project: Part 2](https://anujasalvi.github.io/portfolio/final_proj_p2 "Final Project: 2")
 ### [Final Project: Part 3](https://anujasalvi.github.io/portfolio/final_proj_p3 "Final Project: 3")
-### [Mental Illnesses in Graduate Students](https://carnegiemellon.shorthandstories.com/mental-illnesses-in-graduate-students/index.html "Storyboard")
+### [Mental Illnesses in Graduate Students](https://carnegiemellon.shorthandstories.com/mental-illnesses-in-graduate-students/index.html "Storyboard"){:target="_blank"}
