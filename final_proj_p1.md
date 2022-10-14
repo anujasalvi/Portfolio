@@ -78,10 +78,12 @@
     In todays peer review I got some great recommendations that I would like to incorporate in my final project. Few of them is focusing on the age groups, gender and different demographics of the students. The other suggestion was to highlight the most prevalent major of students with mental illnesses. An interesting suggestion was to compare mental illneses in college and graduate students. Additionally, an interesting recommendation was to include recommendations not only for the program but also for the students. As students they wanted to know how they could help with this existing issue.
   </p>
 </details>
-<p>Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p2" target="_blank">Part 2</a> or Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p3" target="_blank">Part 3</a>.</p>
 
 <p> <h4>Links to other projects:</h4>
 <a href="https://anujasalvi.github.io/portfolio/dataviz2" target="_blank">Visualizing government debt</a><br>
 <a href="https://anujasalvi.github.io/portfolio/assng3-4.html" target="_blank">Critique by Design</a><br>
+<a href="https://anujasalvi.github.io/portfolio/final_proj_p1" target="_blank">Final Project: Part 1</a><br>
+<a href="https://anujasalvi.github.io/portfolio/final_proj_p2" target="_blank">Final Project: Part 2</a><br>
+<a href="https://anujasalvi.github.io/portfolio/final_proj_p3" target="_blank">Final Project: Part 3</a><br>
 <a href="https://carnegiemellon.shorthandstories.com/mental-illnesses-in-graduate-students/index.html" target="_blank">Mental Illnesses in Graduate Students</a>
 </p>
