@@ -1,7 +1,7 @@
 # Portfolio
-This my public portfolio for Telling Stories with Data at Carnegie Mellon University.
-<img src="main_page.png"><br>
-  Image Courtesy: <a href="https://phdcomics.com/comics.php?f=1670" target="_blank">PhD Comics</a>
+This my public portfolio for Telling Stories with Data at Carnegie Mellon University. The following image nicely and accurately sums up the whole the whole procss.
+<img src="main_page.png" style="text-align: center;"><br>
+  Image Courtesy: <a href="https://www.storytellingwithdata.com/blog/2020/8/23/illustrating-with-catherine-madden" target="_blank">illustrating with Catherine Madden</a>
 
 # About me
 I am Anuja Salvi, currently pursuing my masters in Infotrmation Systems Management at Carnegie Mellon University. My background is as a data analyst/data scientist with a knack for design. 
