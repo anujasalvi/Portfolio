@@ -1,4 +1,4 @@
-# Final Project: Part 2
+# Final Project: Part 2 🎨
 
 <p>Extending on part 1 of the final project. The outline and data are the same as part 1.</p>
 <details>
