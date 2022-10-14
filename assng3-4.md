@@ -1,4 +1,4 @@
-# Assignment 3 & 4: Critique by Design
+# Critique by Design 🤔
 
 <details>
 <summary><h2 style="display:inline-block"> Part 1: Original Visualization</h2></summary>
