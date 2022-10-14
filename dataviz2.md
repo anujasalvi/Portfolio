@@ -37,3 +37,11 @@ When it comes to the one that I chose, I tried to incorporate important points o
 At the end of the day, each visualisation is good in its own way, but the appropriate one depends on what is required from the visualisation.
   </p>
 </details>
+
+<p> <h4>Links to other projects:</h4>
+<a href="https://anujasalvi.github.io/portfolio/assng3-4.html" target="_blank">Critique by Design</a><br>
+<a href="https://anujasalvi.github.io/portfolio/final_proj_p1" target="_blank">Final Project: Part 1</a><br>
+<a href="https://anujasalvi.github.io/portfolio/final_proj_p2" target="_blank">Final Project: Part 2</a><br>
+<a href="https://anujasalvi.github.io/portfolio/final_proj_p3" target="_blank">Final Project: Part 3</a><br>
+<a href="https://carnegiemellon.shorthandstories.com/mental-illnesses-in-graduate-students/index.html" target="_blank">Mental Illnesses in Graduate Students</a>
+</p>
