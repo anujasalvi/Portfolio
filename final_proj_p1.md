@@ -79,3 +79,9 @@
   </p>
 </details>
 <p>Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p2" target="_blank">Part 2</a> or Click for <a href="https://anujasalvi.github.io/portfolio/final_proj_p3" target="_blank">Part 3</a>.</p>
+
+<p> <h4>Links to other projects:</h4>
+<a href="https://anujasalvi.github.io/portfolio/dataviz2" target="_blank">Visualizing government debt</a><br>
+<a href="https://anujasalvi.github.io/portfolio/assng3-4.html" target="_blank">Critique by Design</a><br>
+<a href="https://carnegiemellon.shorthandstories.com/mental-illnesses-in-graduate-students/index.html" target="_blank">Mental Illnesses in Graduate Students</a>
+</p>
