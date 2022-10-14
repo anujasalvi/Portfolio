@@ -1,4 +1,4 @@
-# Final Project: Final Draft
+# Final Project 🎨
 
 <p>Extending on <a href = "https://anujasalvi.github.io/portfolio/final_proj_p1" target="_blank">Part 1</a> and <a href = "https://anujasalvi.github.io/portfolio/final_proj_p2" target="_blank">Part 2</a> of the final project. My final storyboard can be found <a href = "https://carnegiemellon.shorthandstories.com/mental-illnesses-in-graduate-students/index.html" target="_blank">here</a>.</p>
 <details>
